@@ -1,5 +1,5 @@
 # **Kinetic Parameters Calculation for OH-CH<sub>3</sub>OH Gas-Phase Reaction**
----
+
 ## **Project Overview**
 This project applies linear regression to calculate the kinetic parameters of the OH-CH<sub>3</sub>OH gas-phase reaction. Two methods are employed:
 1. Using the ***sklearn*** library for linear regression.
