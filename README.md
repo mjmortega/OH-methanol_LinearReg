@@ -17,3 +17,4 @@ The reference used in this project is sourced from a scientific paper:
    - Utilizes the ***LinearRegression*** model from the ***sklearn*** library to fit the data and predict kinetic parameters.
 2. **Gradient Descent from Scratch:**
    - Implements gradient descent algorithm manually to optimize the linear regression model without relying on ***sklearn***.
+3.
